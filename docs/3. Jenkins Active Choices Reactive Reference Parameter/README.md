@@ -92,9 +92,3 @@ pipeline {
 
 ---
 
-
-
-### Key Notes:
-1. Images (`images/params.png`, `images/output.png`) are placeholders—replace with actual screenshots.
-2. The `Omit value field` section explains the fix in simple terms.
-3. The pipeline and scripts are directly copyable.
